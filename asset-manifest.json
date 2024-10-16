@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app-website/static/css/main.dba7b024.css",
-    "main.js": "/react-app-website/static/js/main.765a4c14.js",
+    "main.js": "/react-app-website/static/js/main.85541204.js",
     "static/media/GBwyoZQ9MSVvWK3MBfzqg5v8NMM.mp4": "/react-app-website/static/media/GBwyoZQ9MSVvWK3MBfzqg5v8NMM.31f2c5d5787d8cd7baa2.mp4",
     "static/media/a7oLlvkswlykX0srOqFY3gx1s.mp4": "/react-app-website/static/media/a7oLlvkswlykX0srOqFY3gx1s.e65d9d8da1a2c81e6461.mp4",
     "static/media/journal3.avif": "/react-app-website/static/media/journal3.ea75028389c1632c997f.avif",
@@ -26,10 +26,10 @@
     "static/media/QmUyqMzksTMIZz4zVU65F9A8a8.svg": "/react-app-website/static/media/QmUyqMzksTMIZz4zVU65F9A8a8.4cb0431d9166d6b9d0cc6e2e1d6e4b44.svg",
     "static/media/3b8QXeZBa3UU0wTjhDyYPc2U.svg": "/react-app-website/static/media/3b8QXeZBa3UU0wTjhDyYPc2U.8e118de3a73488f25b543bbee9c24fda.svg",
     "main.dba7b024.css.map": "/react-app-website/static/css/main.dba7b024.css.map",
-    "main.765a4c14.js.map": "/react-app-website/static/js/main.765a4c14.js.map"
+    "main.85541204.js.map": "/react-app-website/static/js/main.85541204.js.map"
   },
   "entrypoints": [
     "static/css/main.dba7b024.css",
-    "static/js/main.765a4c14.js"
+    "static/js/main.85541204.js"
   ]
 }
