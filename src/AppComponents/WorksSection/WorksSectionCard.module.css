@@ -1,0 +1,35 @@
+.container {
+}
+
+.img_container {
+	background-color: #f3f4f8;
+	padding: 30px;
+	border-radius: 20px;
+	width: 34vw;
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* align-items: center; */
+}
+
+.img_container button {
+	background-color: transparent;
+	border-radius: 20px;
+	padding: 6px;
+	margin-top: 20px;
+	margin-right: 10px;
+	font-size: 12px;
+	cursor: pointer;
+	transition: 0.3s;
+	border: 1px solid black;
+}
+
+.img_container img {
+	width: 500px;
+	transition: 0.5s;
+}
+
+.img_container img:hover {
+	width: 600px;
+}

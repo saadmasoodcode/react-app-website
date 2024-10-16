@@ -1,0 +1,38 @@
+.container {
+	display: none;
+	transition: 0.5s;
+	margin-top: 20px;
+}
+
+.menu {
+	display: block;
+	transition: 0.5s;
+	margin-top: 20px;
+}
+
+.container ul {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	font-weight: 600;
+	padding: 25px 15vw;
+}
+.container ul a {
+	font-size: 50px;
+	margin: 0;
+}
+
+.container ul li {
+	border-bottom: 1px solid rgb(193, 193, 193);
+	display: flex;
+	gap: 5px;
+}
+
+.container ul li sup {
+	font-size: 15px;
+	color: rgb(145, 144, 144);
+	padding: 0;
+	margin: 0;
+	font-weight: 100;
+}

@@ -1,0 +1,13 @@
+.menu {
+	font-size: 25px;
+	font-stretch: ;
+	cursor: pointer;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 25px 15vw;
+	border-bottom: 1px solid black;
+}

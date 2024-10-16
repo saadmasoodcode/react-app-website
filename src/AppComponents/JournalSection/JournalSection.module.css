@@ -1,0 +1,14 @@
+.container {
+	padding: 25px 15vw;
+	margin-top: 50px;
+	h4 {
+		display: flex;
+		gap: 20px;
+	}
+}
+
+.journal_cards {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 25px;
+}

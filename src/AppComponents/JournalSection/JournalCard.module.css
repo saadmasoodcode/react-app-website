@@ -1,0 +1,28 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+
+	max-width: 300px;
+	cursor: pointer;
+}
+
+.container img {
+	border-radius: 20px;
+	max-height: 300px;
+	min-height: 300px;
+	min-width: 300px;
+	max-width: 300px;
+	margin-top: 50px;
+}
+
+.container h6 {
+	font-size: 14px;
+	color: rgb(126, 126, 126);
+}
+
+.container h2 {
+	font-size: 20px;
+	font-weight: 600;
+	margin-top: 10px;
+}

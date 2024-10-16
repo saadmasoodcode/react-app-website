@@ -1,0 +1,35 @@
+.container {
+	display: grid;
+	grid-template-columns: 60% 40%;
+	grid-template-rows: 100%;
+	margin-top: 50px;
+	gap: 20px;
+}
+
+.container h1 {
+	font-size: 5.5em;
+	line-height: 100px;
+	letter-spacing: -10px;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 25px;
+	line-height: 35px;
+}
+
+.container button {
+	background-color: transparent;
+	border-radius: 20px;
+	padding: 8px;
+	margin-top: 20px;
+	margin-right: 10px;
+	cursor: pointer;
+	transition: 0.3s;
+	border: 1px solid black;
+}
+
+.container button:hover {
+	background-color: black;
+	color: white;
+}
