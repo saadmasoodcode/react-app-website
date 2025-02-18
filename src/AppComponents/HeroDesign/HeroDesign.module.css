@@ -6,12 +6,13 @@
 	grid-template-columns: repeat(8, 1fr);
 	grid-template-rows: 110px 110px 110px 110px;
 	grid-gap: 20px;
-	width: 70vw;
+	/* width: 70vw; */
 	/* justify-content: center; */
 	img {
 		max-width: 100%;
 		border-radius: 30px;
 	}
+	width: 100%;
 }
 
 .item1 {
