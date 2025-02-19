@@ -1,7 +1,7 @@
 .container {
 	background-color: black;
 	color: white;
-	padding: 100px 290px;
+	padding: 100px 9vw;
 	display: flex;
 	flex-direction: column;
 	gap: 30px;
@@ -11,12 +11,13 @@
 }
 
 .container h1 {
-	font-size: 90px;
+	font-size: 9vw;
 	text-align: center;
 	font-weight: 900;
 	letter-spacing: -5px;
-	line-height: 100px;
+	line-height: 9vw;
 	margin-bottom: 30px;
+	width: 100%;
 }
 
 .container button {

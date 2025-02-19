@@ -1,6 +1,10 @@
 .container {
 	padding: 25px 15vw;
 	margin-top: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+
 	h4 {
 		display: flex;
 		gap: 20px;
@@ -8,7 +12,17 @@
 }
 
 .journal_cards {
-	display: grid;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
 	grid-template-columns: repeat(3, 1fr);
 	gap: 25px;
+	
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+	.journal_cards {
+		justify-content: center;
+	}
 }
